@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Elavon is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.elavon.com/
+Elavon provides merchant services and payment processing solutions for businesses of all sizes, offering secure, reliable, and scalable transaction handling across multiple channels including in‑store, online, and mobile. Their platform supports a wide range of payment methods, fraud detection tools, and reporting features, helping merchants improve cash flow and customer experience. Elavon serves enterprises worldwide and integrates with numerous point‑of‑sale systems and e‑commerce platforms.
+
+**Areas:** Company · Payments · Merchant Services · FinTech · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.elavon.com/)
+- [Documentation](https://developer.elavon.com/)
+- [Support](https://help.elavon.com/s/)
+- [Privacy policy](https://www.elavon.com/privacy-policy.html)
+- [GitHub](https://github.com/elavon)
+- [Status](https://status.elavon.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/elavon/](https://apis.io/providers/elavon/).
